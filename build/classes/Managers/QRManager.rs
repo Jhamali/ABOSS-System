@@ -1,0 +1,2 @@
+Managers.CrunchifyQRCode
+Managers.QRManager
